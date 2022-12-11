@@ -1,10 +1,9 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 <p align="center">
-  <a href="#">
-    <img alt="GMCA" title="GMCA" src="images/intro-titles.gif" >
-  </a>
-</p>
+  
+  ![𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!](https://user-images.githubusercontent.com/53680177/206891248-fa40a881-6a2e-4154-ab1c-2731f0fe253a.gif)
+
+ </p>
 </div>
 
 
