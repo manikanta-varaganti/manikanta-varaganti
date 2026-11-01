@@ -188,10 +188,10 @@ drwxr-xr-x  Garbagemonitoring/                           # IoT meets the bin    
 
 <div align="center">
 
-<a href="https://github.com/manikanta-varaganti/detection-of-motorcyclists-without-helmet"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-varaganti&repo=detection-of-motorcyclists-without-helmet&theme=tokyonight&hide_border=false&border_color=292e42" alt="Helmet detection" /></a>
-<a href="https://github.com/manikanta-varaganti/branch-predictor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-varaganti&repo=branch-predictor&theme=tokyonight&hide_border=false&border_color=292e42" alt="Branch predictor" /></a>
-<a href="https://github.com/manikanta-varaganti/cache-simulator"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-varaganti&repo=cache-simulator&theme=tokyonight&hide_border=false&border_color=292e42" alt="Cache simulator" /></a>
-<a href="https://github.com/manikanta-varaganti/internship-portal"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=manikanta-varaganti&repo=internship-portal&theme=tokyonight&hide_border=false&border_color=292e42" alt="Internship portal" /></a>
+<a href="https://github.com/manikanta-varaganti/detection-of-motorcyclists-without-helmet"><img width="48%" src="assets/projects/detection-of-motorcyclists-without-helmet.svg" alt="Helmet detection" /></a>
+<a href="https://github.com/manikanta-varaganti/branch-predictor"><img width="48%" src="assets/projects/branch-predictor.svg" alt="Branch predictor" /></a>
+<a href="https://github.com/manikanta-varaganti/cache-simulator"><img width="48%" src="assets/projects/cache-simulator.svg" alt="Cache simulator" /></a>
+<a href="https://github.com/manikanta-varaganti/internship-portal"><img width="48%" src="assets/projects/internship-portal.svg" alt="Internship portal" /></a>
 
 </div>
 
@@ -201,28 +201,19 @@ drwxr-xr-x  Garbagemonitoring/                           # IoT meets the bin    
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manikanta-varaganti&show_icons=true&theme=tokyonight&hide_border=false&border_color=292e42&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-varaganti&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=292e42" alt="Top languages" />
+<img width="49%" src="assets/stats.svg" alt="GitHub stats" />
+<img width="49%" src="assets/langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=manikanta-varaganti&theme=tokyonight&hide_border=false&border_radius=4.5" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manikanta-varaganti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
-<img src="https://raw.githubusercontent.com/manikanta-varaganti/manikanta-varaganti/output/github-snake-dark.svg" alt="A snake eating my contribution graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manikanta-varaganti/manikanta-varaganti/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/manikanta-varaganti/manikanta-varaganti/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%" />
+</picture>
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
-## `TODO.md`
-
-- [x] Ship systems that move 100,000+ files a month without dropping them
-- [x] Serve LLMs on H100s and train across multi-node GPU clusters
-- [x] Get 50+ engineers building agents without the boilerplate
-- [x] Learn to read other people's code without sighing
-- [ ] Build something that surprises its own author
-- [ ] Understand what's actually going on inside the models
-- [ ] Get to inbox zero (🙃)
 
 <details>
 <summary><code>sudo rm -rf /</code></summary>
