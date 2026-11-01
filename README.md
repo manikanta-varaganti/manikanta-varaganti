@@ -6,30 +6,10 @@
 
 <a href="https://www.linkedin.com/in/manikanta-varaganti"><img src="https://img.shields.io/badge/linkedin-%23565f89?style=flat-square&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" alt="LinkedIn" /></a>
 <a href="mailto:mkvaraganti@gmail.com"><img src="https://img.shields.io/badge/smtp-mkvaraganti%40gmail.com-%23565f89?style=flat-square&logo=gmail&logoColor=f7768e&labelColor=1a1b26" alt="Email" /></a>
-<a href="https://manikanta-varaganti-resume.tiiny.site/"><img src="https://img.shields.io/badge/curl-resume-%23565f89?style=flat-square&logo=readme&logoColor=bb9af7&labelColor=1a1b26" alt="Resume" /></a>
 <a href="https://m2i101.github.io"><img src="https://img.shields.io/badge/ssh-portfolio-%23565f89?style=flat-square&logo=githubpages&logoColor=9ece6a&labelColor=1a1b26" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=manikanta-varaganti&label=GET+%2F&color=565f89&style=flat-square&labelColor=1a1b26" alt="Profile views" />
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `$ neofetch`
-
-```text
-  ┌──────────────┐       manikanta@github
-  │ ░▒▓ MV ▓▒░   │       ──────────────────────────────────────
-  │  { dev }     │       OS ........ Human 4.0 (uptime: 4 years)
-  │  </ >        │       Shell ..... zsh
-  └──────────────┘       Langs ..... Python · Go · TypeScript · SQL · Java
-                         Infra ..... GCP · AWS · Kubernetes · Docker · Terraform
-                         Data ...... PostgreSQL · Redis · Kafka · MongoDB
-                         Focus ..... distributed systems · agent platforms · LLMs
-                         Edu ....... M.S. Computer Science, UCF (GPA 4.0)
-                         Kernel .... curiosity-5.1.0 (unbounded)
-                         Mem ....... 16 tabs / ∞ ideas
-                         Status .... compiling
-```
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -96,8 +76,6 @@ $ git log --graph --decorate
 ## `skills.toml`
 
 ```toml
-# last updated: from my resume, not from vibes
-
 [languages]
 core   = ["Python", "Go", "TypeScript", "JavaScript", "SQL"]
 also   = ["Java", "Bash/Shell", "HTML/CSS"]
