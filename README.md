@@ -20,11 +20,19 @@ from about import Engineer
 
 
 class Manikanta(Engineer):
+    """AI-native product builder. Systems engineered to scale."""
+
     def philosophy(self):
         yield "make it work"
         yield "make it right"
         yield "make it fast"
         yield "then ask: can it improve itself?"   # <- the fun part
+
+    def ship(self, idea, load=10 ** 6):
+        draft = self.agents.draft(idea)          # AI in the loop from line one
+        while not draft.holds_at(load):          # load is a spec, not a surprise
+            draft = self.architect(draft)        # agents accelerate, I design
+        return draft.deploy()
 
     def reach_me(self):
         return "mkvaraganti@gmail.com"
